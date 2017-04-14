@@ -1,0 +1,15 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+RewriteRule ^song/(\d+)*$ ./song.php?id=$1
+RewriteRule ^album/(\d+)*$ ./album.php?id=$1
+RewriteRule ^update/(\d+)*$ ./update.php?id=$1
+RewriteRule ^updates/(\d+)*$ ./updates.php?id=$1
+RewriteRule ^updatep/(\d+)*$ ./updatep.php?id=$1
+RewriteRule ^playlist/(\d+)*$ ./playlist.php?id=$1
+RewriteRule ^playlistw/(\d+)*$ ./playlistw.php?id=$1
+RewriteRule ^sitemap/(\w+)/(\w+)$ ./sitemap.php?alpha=$1&beta=$2
+RewriteRule ^sitemap/(\w+)$ ./sitemap.php?alpha=$1
+#RewriteRule ^(.*)/index\.php$ ./sitemap.php
