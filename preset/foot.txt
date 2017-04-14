@@ -1,0 +1,5 @@
+<div class="cl"></div></div><div class="jp-no-solution">
+<span>Update Required</span>To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div></div></div><div class="load-msg" style="display:none">
+<img src="player/ajax-loader.gif" alt=""><p>"Loading Message will come here"</p>
+</div><div class="retry-msg" style="display:none"><p>Ooops! <span>something went wrong.</span> <a href="#" class="button">Retry</a></p></div><div id="tp1-inspector" style="display:none"></div></div>

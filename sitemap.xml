@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>http://localhost/sb/maps/playlist1.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/album1.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/song1.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/song2.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/song3.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/song4.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://localhost/sb/maps/song5.xml</loc>
+    <lastmod>2016-03-27T09:12:33+02:00</lastmod>
+  </sitemap>
+  </sitemapindex>

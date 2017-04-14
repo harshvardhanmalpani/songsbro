@@ -1,0 +1,20 @@
+<div id="tp1">
+<link rel="stylesheet" property="stylesheet" href="player/player.css">
+<link rel="stylesheet" property="stylesheet" href="player/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" property="stylesheet" href="player/tipsy.css">
+<script type="text/javascript" src="player/jquery.min.js"></script>
+<script type="text/javascript" src="player/jquery.jplayer.js"></script>
+<script type="text/javascript" src="player/jquery.tipsy.js"></script>
+<script type="text/javascript" src="player/jplayer.playlist.min.js"></script>
+<script type="text/javascript" src="player/jquery.jplayer.inspector.2.9.0.js"></script>
+<script type="text/javascript" src="player/jquery.mCustomScrollbar.js"></script>
+<script>
+$( document ).ready(function() {
+$("#content-8").mCustomScrollbar({
+axis:"y",
+theme:"light",
+scrollbarPosition:"outside",
+contentTouchScroll: 25
+});
+});
+</script>

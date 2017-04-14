@@ -1,0 +1,26 @@
+<nav class="horizontal">
+	 <div class="col-md-4 col-xs-12">
+        <h1 class="logo"><a href="<?php echo $urlhead;?>" title="Songsbro homepage"><img src="logo.svg" alt="SongsBro - Download songs with ease. Easier than ever" /></a></h1>
+		</div><ul class="col-md-8 col-xs-12 text-right">
+  <li class="active"><a href="<?php echo $urlhead;?>">Home</a></li>
+  <li><a href="<?php echo $urlhead;?>request.php">Requests</a></li>
+  <li><a href="<?php echo $urlhead;?>sitemap.php">Sitemap</a></li>
+  <li><a href="<?php echo $urlhead;?>terms.php">Terms of Usage</a></li>
+  <li><a href="<?php echo $urlhead;?>privacy.php">Privacy Policy</a></li>
+  <li><a>Share</a></li>
+  <li class="sharebtn"><div><a class="social sharebtn-fa" target=_blank href="https://www.facebook.com/sharer/sharer.php?u=">
+  <li class="sharebtn"><div><a class="social sharebtn-ta" target=_blank href="https://twitter.com/home?status=">
+  <li class="sharebtn"><div><a class="social sharebtn-ga" target=_blank href="https://plus.google.com/share?url=">
+  <li class="sharebtn"><div><a class="social sharebtn-wa" target=_blank href="whatsapp://send?text=">
+	  </a></div></li>
+<script type="text/javascript" src="player/jquery.min.js"></script>
+
+	  <script>
+	  $(".sharebtn .social").each(function() {
+   var _href = $(this).attr("href"); 
+   var uri=window.location.href;
+   $(this).attr("href", _href + encodeURI(uri));
+});
+	  </script>
+</ul>
+		</nav><div class="clearfix"></div>

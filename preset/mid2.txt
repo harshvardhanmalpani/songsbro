@@ -1,0 +1,41 @@
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="hlogo"><a href="/" title="songsbro" target="_blank" ><h3>Songsbro mobile Logo </h3></a></div>
+<div class="cl"></div>
+</div>
+<div class="cl"></div>
+</div>
+<div class="bgcontrols">
+<ul class="jp-controls">
+<li><a href="javascript:;" class="jp-previous" tabindex="1" title="previous">previous</a></li>
+<li><a href="javascript:;" class="jp-play" tabindex="1" title="play">play</a></li>
+<li><a href="javascript:;" class="jp-pause" tabindex="1" title="pause">pause</a></li>
+<li><span class="jp-divd1">&nbsp;</span></li>
+<li><a href="javascript:;" class="jp-next" tabindex="1" title="next">next</a></li>
+<li><a href="javascript:;" class="jp-stop" tabindex="1" title="stop">stop</a></li>
+<li><a href="javascript:;" class="jp-current-time" tabindex="1" title="Current Time"></a></li>
+<li><span class="jp-divd3">/</span></li>
+<li><a href="javascript:;" class="jp-duration" tabindex="1" title="Duration">/</a></li>
+<li><span class="jp-divd2">&nbsp;</span></li>
+<li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+<li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+<li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+<li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
+<li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
+<li><a href="javascript:;" class="jp-shuffle" tabindex="1" title="shuffle">shuffle</a></li>
+<li><a href="javascript:;" class="jp-shuffle-off" tabindex="1" title="shuffle off">shuffle off</a></li>
+<li><a href="javascript:;" class="jp-download toltp" tabindex="1" title="Download Playlist">download</a></li>
+<!--<li><a href="javascript:;" class="jp-share toltp" tabindex="1" title="Share Playlist">share</a></li>-->
+</ul>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li></li>
+</ul>
+</div>
+</div>
